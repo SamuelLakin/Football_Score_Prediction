@@ -1,0 +1,89 @@
+leagues:
+
+  - code: E0
+    name: Premier League
+    country: England
+    source: football_data
+    tier: 1
+    start_year: 2000
+    avg_goals: 2.7
+
+  - code: E1
+    name: Championship
+    country: England
+    source: football_data
+    tier: 2
+    start_year: 2000
+    avg_goals: 2.6
+
+  - code: SP1
+    name: La Liga
+    country: Spain
+    source: football_data
+    tier: 1
+    start_year: 2000
+    avg_goals: 2.6
+
+  - code: SP2
+    name: La Liga 2
+    country: Spain
+    source: football_data
+    tier: 2
+    start_year: 2005
+    avg_goals: 2.4
+
+  - code: D1
+    name: Bundesliga
+    country: Germany
+    source: football_data
+    tier: 1
+    start_year: 2000
+    avg_goals: 3.1
+
+  - code: D2
+    name: 2. Bundesliga
+    country: Germany
+    source: football_data
+    tier: 2
+    start_year: 2005
+    avg_goals: 2.9
+
+  - code: I1
+    name: Serie A
+    country: Italy
+    source: football_data
+    tier: 1
+    start_year: 2000
+    avg_goals: 2.6
+
+  - code: F1
+    name: Ligue 1
+    country: France
+    source: football_data
+    tier: 1
+    start_year: 2002
+    avg_goals: 2.6
+
+  - code: N1
+    name: Eredivisie
+    country: Netherlands
+    source: football_data
+    tier: 1
+    start_year: 2000
+    avg_goals: 3.2
+
+  - code: P1
+    name: Primeira Liga
+    country: Portugal
+    source: football_data
+    tier: 1
+    start_year: 2004
+    avg_goals: 2.5
+
+  - code: SC0
+    name: Scottish Premiership
+    country: Scotland
+    source: football_data
+    tier: 1
+    start_year: 2004
+    avg_goals: 2.8
