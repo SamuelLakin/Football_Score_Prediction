@@ -13,7 +13,7 @@ A machine learning app that predicts football match outcomes using XGBoost and P
 
 
 ## How it works
-The model uses two heads blended 60/40:
+The model uses a two headed blend 60/40:
 - **XGBoost classifier** — trained on rolling form, attack/defence strength, head-to-head records and home advantage
 - **Poisson regression** — predicts expected goals and derives scoreline probabilities
 
